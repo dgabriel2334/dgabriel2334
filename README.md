@@ -8,7 +8,7 @@
 - Ótimos conhecimentos em NFC-e (Nota Fiscal Eletrônica);
 
 
-### Atualmente trabalho em:
+## Atualmente trabalho em:
 <div>
  <img src="https://scontent.fpll6-1.fna.fbcdn.net/v/t39.30808-6/299716710_474675844665885_7695301974900488864_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE_QD0-1DXeZD6lbFTIArEpcrNGePrUmo1ys0Z4-tSajdQoNGgV67_VnwUrNs5Ba_uv0v1GsSGNtvubuBwMB427&_nc_ohc=zcgUWrDz584AX9B-XP3&_nc_ht=scontent.fpll6-1.fna&oh=00_AT9bZwMlb8s1-oiAUC07QZdqB9lFoKCLzNCoWSMzjT_DLA&oe=6325118F" width="150" height="150"/>
 <div/> 
