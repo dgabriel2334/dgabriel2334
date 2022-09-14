@@ -30,7 +30,7 @@
   
 ### Novas Funcionalidades:
   - Atualizador automático;
-  - Api de envio de mensagens via WhatsApp;
+  - API de envio de mensagens via WhatsApp;
   - Nota fiscal do estado do CE;
   - Cobranças instantâneas via PIX;
   - Tunelamento reverso para que clientes usem seu sistema remotamente sem necessidade de liberação de portas no ISP;
