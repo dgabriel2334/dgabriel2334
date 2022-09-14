@@ -23,7 +23,7 @@
  <img src="https://play-lh.googleusercontent.com/ReQEaxm44OuduIlJEVO_-xs9iZXSyRNdzGKrONYoLSgAdOzyhPKTb1xuuoPXK6tABm0" width="80" height="80"/>
  <img src="https://play-lh.googleusercontent.com/zabfewJY9Mika43Ju2Cc4Ahhqa0imGIJs4jo-72wBw1fVOLN1nUPpTc8ZxgU9sJA7uY" width="80" height="80"/>
  <br>
- <a href="google.com"><img src="https://assets.website-files.com/56c5b86020f9e0ef31f4cb85/608c133d3c24f6164ab41239_autor-omie.png" width="80" height="80"/><a/>
+ <img src="https://assets.website-files.com/56c5b86020f9e0ef31f4cb85/608c133d3c24f6164ab41239_autor-omie.png" width="80" height="80"/>
  <img src="https://www.softwarebymaringa.com.br/associado/files/1583777131,66_logo_tecnospeed.png" width="150" height="80"/>
  <img src="https://banqi.com.br/assets/img/uploads/pix-logo.png" width="150" height="80"/>
 <div/> 
