@@ -21,8 +21,9 @@
  <img src="https://play-lh.googleusercontent.com/anN54MY8cskQHZuEcsLmvYmoXryZTy2-JZJ_G9miE-pFjJS0XG3vojkVxuxc6PnuCvk" width="80" height="80"/>
  <img src="https://starkbank.com/images/logo-rectangle.png" width="120" height="80"/>
  <img src="https://play-lh.googleusercontent.com/ReQEaxm44OuduIlJEVO_-xs9iZXSyRNdzGKrONYoLSgAdOzyhPKTb1xuuoPXK6tABm0" width="80" height="80"/>
- <img src="https://play-lh.googleusercontent.com/zabfewJY9Mika43Ju2Cc4Ahhqa0imGIJs4jo-72wBw1fVOLN1nUPpTc8ZxgU9sJA7uY" width="80" height="80"/>
+ <img src="https://seebjgssc.com.br/admin/paginas/noticias_nivel_3/uploads_gal/180915165954-LOGO%20ITAU%204.jpg" width="80" height="80"/>
  <br>
+ <img src="https://play-lh.googleusercontent.com/zabfewJY9Mika43Ju2Cc4Ahhqa0imGIJs4jo-72wBw1fVOLN1nUPpTc8ZxgU9sJA7uY" width="80" height="80"/>
  <img src="https://assets.website-files.com/56c5b86020f9e0ef31f4cb85/608c133d3c24f6164ab41239_autor-omie.png" width="80" height="80"/>
  <img src="https://www.softwarebymaringa.com.br/associado/files/1583777131,66_logo_tecnospeed.png" width="150" height="80"/>
  <img src="https://banqi.com.br/assets/img/uploads/pix-logo.png" width="150" height="80"/>
