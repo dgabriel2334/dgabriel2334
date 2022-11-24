@@ -7,10 +7,14 @@
 - Conhecimentos práticos em rede;
 - Ótimos conhecimentos em NFC-e (Nota Fiscal Eletrônica);
 
-
-## Atualmente trabalho em:
+## Hoje trabalho na:
 <div>
- <img src="https://scontent.fpll6-1.fna.fbcdn.net/v/t39.30808-6/299716710_474675844665885_7695301974900488864_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE_QD0-1DXeZD6lbFTIArEpcrNGePrUmo1ys0Z4-tSajdQoNGgV67_VnwUrNs5Ba_uv0v1GsSGNtvubuBwMB427&_nc_ohc=zcgUWrDz584AX9B-XP3&_nc_ht=scontent.fpll6-1.fna&oh=00_AT9bZwMlb8s1-oiAUC07QZdqB9lFoKCLzNCoWSMzjT_DLA&oe=6325118F" width="150" height="150"/>
+ <img src="http://www.imcbrasil.com/wp-content/uploads/2016/08/westwing-original-1.png" width="350" height="200"/>
+<div/> 
+
+## Mas passei também pelo:
+<div>
+ <img src="https://scontent.fbel3-1.fna.fbcdn.net/v/t39.30808-6/299716710_474675844665885_7695301974900488864_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE_QD0-1DXeZD6lbFTIArEpcrNGePrUmo1ys0Z4-tSajdQoNGgV67_VnwUrNs5Ba_uv0v1GsSGNtvubuBwMB427&_nc_ohc=3KQIOTMMSfEAX8571zd&_nc_zt=23&_nc_ht=scontent.fbel3-1.fna&oh=00_AfA-6UI9HJK1gusV5lmYIHwl-B2a-U9dgThazb2iLSUZRQ&oe=6383FD8F" width="150" height="150"/>
 <div/> 
 
 ## Minhas conquistas nesta empresa:
@@ -72,7 +76,6 @@
 <br>
 
 ## Meus projetos pessoais:
-<br>
 <div>
   <img src="https://ubots.com.br/wp-content/uploads/2021/11/baf8ac55-nova-imagem-do-whatsapp-b.png" width="80" height="100"/>
 <div/>
@@ -88,11 +91,7 @@ Atualmente desenvolvendo um chat bot com uma central de atendimento para chamado
 - Integração finenceira com PIX para pagamentos de mensalidades em atraso (Dessa forma o cliente não fica bloqueados em feriados ou finais de semana ou outros dias que o financeiro não esteja em funcionamento);
 - Retornos automáticos após pagamento de mensalidades via PIX e desbloqueio instantâneo;
 
-### Projeto de minha total autoria, porém visando o crescimento e evolução do:
-
-<div>
- <img src="https://scontent.fpll6-1.fna.fbcdn.net/v/t39.30808-6/299716710_474675844665885_7695301974900488864_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE_QD0-1DXeZD6lbFTIArEpcrNGePrUmo1ys0Z4-tSajdQoNGgV67_VnwUrNs5Ba_uv0v1GsSGNtvubuBwMB427&_nc_ohc=zcgUWrDz584AX9B-XP3&_nc_ht=scontent.fpll6-1.fna&oh=00_AT9bZwMlb8s1-oiAUC07QZdqB9lFoKCLzNCoWSMzjT_DLA&oe=6325118F" width="150" height="150"/>
-<div/> 
+### Projeto de minha total autoria
 
 ### Neste projeto estou usando atualmente as tecnologias:
 <div>
