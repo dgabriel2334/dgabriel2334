@@ -13,9 +13,8 @@
 <div/> 
 
 ## Mas passei também pelo:
-<div>
- <img src="https://scontent.fbel3-1.fna.fbcdn.net/v/t39.30808-6/299716710_474675844665885_7695301974900488864_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE_QD0-1DXeZD6lbFTIArEpcrNGePrUmo1ys0Z4-tSajdQoNGgV67_VnwUrNs5Ba_uv0v1GsSGNtvubuBwMB427&_nc_ohc=3KQIOTMMSfEAX8571zd&_nc_zt=23&_nc_ht=scontent.fbel3-1.fna&oh=00_AfA-6UI9HJK1gusV5lmYIHwl-B2a-U9dgThazb2iLSUZRQ&oe=6383FD8F" width="150" height="150"/>
-<div/> 
+iComanda
+https://www.instagram.com/icomandafood/
 
 ## Minhas conquistas nesta empresa:
 
