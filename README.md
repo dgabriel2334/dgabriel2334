@@ -7,6 +7,11 @@
 - Conhecimentos práticos em rede;
 - Ótimos conhecimentos em NFC-e (Nota Fiscal Eletrônica);
 
+## Você fala direto comigo nos seguintes contatos:
+- 11 91092-1684
+- 92 98128-5787
+- dariogabriel2334@gmail.com
+
 ## Hoje trabalho na:
 <div>
  <img src="http://www.imcbrasil.com/wp-content/uploads/2016/08/westwing-original-1.png" width="350" height="200"/>
