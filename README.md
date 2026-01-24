@@ -1,126 +1,225 @@
-# Olá! Eu sou o Dário Gabriel 👋
+<!-- ======================================================
+   GitHub Profile — Dário Gabriel
+   Senior Backend Engineer • Architecture • Payments
+====================================================== -->
 
-## Sobre mim:
-- Made in Amazonas, Brasil 🇧🇷;
-- Desenvolvedor Back-end e aprimorando Front-end;
-- Formado em Ciência da Computação;
-- Atualmente trabalhando com PHP, JavaScript e TypeScript;
-- Aprimorando meus conhecimentos em Node.js e Vue.js;
-- Apaixonado por tecnologia e programação;
-- Louco por café ☕;
-- Dominante de metodologias ágeis;
-- Amante de Design Patterns;
-- Admirador de Clean Code;
-- Fascinado por testes automatizados;
-- Clean Architecture e SOLID são meus princípios;
-- Entusiasta de boas práticas de programação;
-- Sempre em busca de novos desafios;
-- Aprendendo Kotlin, Flutter e React Native para entrar no mundo mobile;
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1200&center=true&vCenter=true&width=900&lines=D%C3%A1rio+Gabriel;Senior+Software+Engineer;Backend+%7C+Architecture+%7C+Payments;DDD+%7C+Hexagonal+Architecture+%7C+Clean+Code" />
 
-## Contato:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariogabriel2334/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/eusoualenda0/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariogabriel2334@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511910921684&text=Ol%C3%A1%2C%20D%C3%A1rio%20Gabriel!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20tecnologia%20e%20programa%C3%A7%C3%A3o.)
+<br/>
 
+<p>
+  🇧🇷 Made in <b>Amazonas, Brazil</b><br/>
+  Senior Software Engineer specialized in backend systems, architecture and payment platforms.<br/>
+  I design systems that need to be <b>correct, scalable and maintainable</b> — especially when money is involved.
+</p>
 
-## Estatísticas do GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dgabriel2334&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dgabriel2334&layout=compact&langs_count=8&theme=dark)
+<p>
+  <a href="https://www.linkedin.com/in/dariogabriel2334">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dariogabriel2334@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511910921684">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
-## Linguagens que domino:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<br/>
 
-## Frameworks que uso constantemente:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Yii](https://img.shields.io/badge/Yii-FFD800?style=for-the-badge&logo=yii&logoColor=black)
-![Zend](https://img.shields.io/badge/Zend-68B604?style=for-the-badge&logo=zend&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dgabriel2334&show_icons=true&rank_icon=github&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgabriel2334&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
 
-## Banco de Dados que estão no meu dia a dia:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br/><br/>
 
-## Ferramentas que fazem parte do meu trabalho:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)
+</div>
 
-## Metodologias que estou habituado:
-![Scrum](https://img.shields.io/badge/Scrum-009E5D?style=for-the-badge&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-007CC3?style=for-the-badge&logo=kanban&logoColor=white)
-![XP](https://img.shields.io/badge/XP-008C99?style=for-the-badge&logo=xp&logoColor=white)
+---
 
-## Princípios que sigo:
-![Clean Code](https://img.shields.io/badge/Clean_Code-008C99?style=for-the-badge&logo=clean-code&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-008C99?style=for-the-badge&logo=clean-architecture&logoColor=white)
+## 🧭 Who I Am (Beyond the Title)
 
-![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-008C99?style=for-the-badge&logo=onion-architecture&logoColor=white)
-![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-008C99?style=for-the-badge&logo=hexagonal-architecture&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-008C99?style=for-the-badge&logo=microservices&logoColor=white)
-![REST](https://img.shields.io/badge/REST-008C99?style=for-the-badge&logo=rest&logoColor=white)
+I am a backend-focused software engineer with a strong passion for **architecture, domain modeling and system longevity**.
 
-![MVC](https://img.shields.io/badge/MVC-008C99?style=for-the-badge&logo=mvc&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-008C99?style=for-the-badge&logo=ddd&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-008C99?style=for-the-badge&logo=tdd&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-008C99?style=for-the-badge&logo=bdd&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-008C99?style=for-the-badge&logo=design-patterns&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-008C99?style=for-the-badge&logo=solid&logoColor=white)
+Over the years, I’ve worked on systems where:
+- Downtime means **financial loss**
+- Bugs affect **thousands of users**
+- Bad architecture slows down **entire teams**
+- Payments, subscriptions and billing logic must be **precise and auditable**
 
-## IDEs que utilizo:
-![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Because of that, my engineering mindset is shaped by:
+- **DDD and clear domain boundaries**
+- **Hexagonal Architecture to isolate complexity**
+- **Clean Code and refactoring as continuous practices**
+- **Automated tests as a safety net, not a checkbox**
 
-## É comum pra mim:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+---
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+## 🧠 Engineering Philosophy
 
-## Soft Skills:
-![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-FFD700?style=for-the-badge&logo=slack&logoColor=black)
-![Trabalho em Equipe](https://img.shields.io/badge/Trabalho_em_Equipe-FFD700?style=for-the-badge&logo=slack&logoColor=black)
-![Proatividade](https://img.shields.io/badge/Proatividade-FFD700?style=for-the-badge&logo=slack&logoColor=black)
-![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia-FFD700?style=for-the-badge&logo=slack&logoColor=black)
+<div align="center">
 
-## Onde estou trabalhando atualmente:
-[![Westwing](https://img.shields.io/badge/Westwing-00A862?style=for-the-badge&logo=westwing&logoColor=black)](https://www.westwing.com.br/)
+<img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-0D47A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Hexagonal%20%2F%20Clean-4A148C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Testing-TDD%20%2F%20BDD-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20Systems-263238?style=for-the-badge"/>
 
-## Lugares onde já trabalhei:
-[![iComanda](https://img.shields.io/badge/iComanda-0077B5?style=for-the-badge&logo=icomanda&logoColor=black)](https://www.icomanda.com.br/)
+</div>
 
-## O que estou estudando atualmente:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+> I don’t believe architecture is about diagrams —  
+> it’s about **making change safe and predictable**.
 
-## Empresas que admiro:
-[![Linx](https://img.shields.io/badge/Linx-FF00FF?style=for-the-badge&logo=linx&logoColor=black)](https://www.linx.com.br/)
-[![iFood](https://img.shields.io/badge/iFood-FF0000?style=for-the-badge&logo=ifood&logoColor=black)](https://www.ifood.com.br/)
-[![Stone](https://img.shields.io/badge/Stone-00BFA6?style=for-the-badge&logo=stone&logoColor=black)](https://www.stone.com.br/)
-[![PicPay](https://img.shields.io/badge/PicPay-00BFA6?style=for-the-badge&logo=picpay&logoColor=black)](https://www.picpay.com/)
-[![Mercado Livre](https://img.shields.io/badge/Mercado_Livre-FFD700?style=for-the-badge&logo=mercadolivre&logoColor=black)](https://www.mercadolivre.com.br/)
+---
+
+## 🏗️ Career Story (Projects & Impact)
+
+This is not just where I worked — it’s **what I helped build and improve**.
+
+---
+
+### 🏛️ Global Hitss  
+**Government Systems — Brazil**
+
+<details>
+<summary><b>Read more</b></summary>
+
+<br/>
+
+At Global Hitss, I worked on **Brazilian government projects**, contributing to backend systems that serve **large populations and public institutions**.
+
+This environment required:
+- High **stability and reliability**
+- Strong concern with **data integrity**
+- Careful handling of **legacy systems**
+- Compliance with **public sector standards**
+
+It was a foundational experience in:
+- Working with **large-scale enterprise systems**
+- Understanding how software impacts **real-world public services**
+- Designing solutions that must work reliably over long periods of time
+
+</details>
+
+---
+
+### 🛒 Westwing  
+**E-commerce at Scale**
+
+<details>
+<summary><b>Read more</b></summary>
+
+<br/>
+
+At Westwing, I worked on a **large e-commerce platform**, dealing with systems that needed to be fast, resilient and scalable.
+
+My work involved:
+- Backend improvements and system sustainment
+- Enhancing performance and reliability
+- Supporting complex business flows in production
+
+Key integrations included:
+- Payments via  
+  <img src="https://img.shields.io/badge/Adyen-0ABF53?style=flat&logo=adyen&logoColor=white"/>
+- External systems such as  
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
+
+This role strengthened my experience with:
+- **High-traffic systems**
+- Payment flows and failure handling
+- Cross-team collaboration in international environments
+
+</details>
+
+---
+
+### 🍽️ iComanda  
+**Food Service, POS & Digital Experience**
+
+<details>
+<summary><b>Read more</b></summary>
+
+<br/>
+
+At iComanda, I played a key role in improving integrations across the **food service ecosystem**.
+
+Projects included:
+- Digital menus
+- Sales and management dashboards
+- Brazilian fiscal documents (NF-e)
+- WhatsApp-based customer interaction
+- Integration with **AI-powered automation**
+
+This experience connected backend engineering with:
+- Real-time operations
+- Physical businesses (restaurants)
+- Automation and customer experience
+
+It was a strong lesson in building software that directly affects **daily business operations**.
+
+</details>
+
+---
+
+### 💳 Leadtech  
+**Payments, Subscriptions & International Expansion (Current)**
+
+<details open>
+<summary><b>Read more</b></summary>
+
+<br/>
+
+At Leadtech, I currently work as a **Senior Software Engineer** in the payments domain.
+
+My responsibilities include:
+- Designing and maintaining **payment integrations**
+- Improving subscription and billing systems
+- Increasing API maintainability and clarity
+- Supporting expansion to **new countries and markets**
+
+Payment providers and platforms include:
+<br/>
+<img src="https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adyen-0ABF53?style=flat&logo=adyen&logoColor=white"/>
+<img src="https://img.shields.io/badge/MacroPay-111111?style=flat"/>
+
+Architectural focus:
+- DDD-based domain separation
+- Hexagonal Architecture
+- Clear APIs and bounded contexts
+- Testable and evolvable systems
+
+This is where architecture, payments and scalability truly meet.
+
+</details>
+
+---
+
+## 🧩 Tech Stack Snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+
+</div>
+
+---
+
+## 🧠 Final Thoughts
+
+> I’m especially effective in environments where  
+> **architecture, payments and long-term maintainability really matter**.
+
+> I enjoy turning complex domains into systems that teams can understand, trust and evolve.
+
