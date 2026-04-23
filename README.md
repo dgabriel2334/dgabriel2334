@@ -29,7 +29,7 @@
 - Senior Backend Engineer with **7+ years** shipping production systems in Brazil, Spain and Latin America
 - Currently at **Leadtech (Barcelona)** — payments, subscriptions and billing for international markets
 - Engineering driven by **DDD**, **Hexagonal Architecture** and event-driven design
-- Languages: Portuguese (native) · English (B2) · Spanish (A2)
+- Languages: Portuguese (native) · English (B2) · Spanish (C1)
 - Based in **Manaus, Brazil** — remote-first, open to international roles
 
 > Architecture isn't about diagrams — it's about **making change safe and predictable**.
