@@ -6,12 +6,12 @@
 <div align="center">
 
 <a href="https://dgabriel2334.github.io">
-  <img alt="roles" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F83F4&center=true&vCenter=true&width=720&height=50&lines=Senior+Backend+Engineer;Payments+%E2%80%A2+Subscriptions+%E2%80%A2+Billing;PHP+%E2%80%A2+Symfony+%E2%80%A2+Node+%E2%80%A2+Java;DDD+%E2%80%A2+Hexagonal+%E2%80%A2+Event-driven" />
+  <img alt="roles" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F83F4&center=true&vCenter=true&width=720&height=50&lines=Senior+Backend+Engineer;Payments+%E2%80%A2+Subscriptions+%E2%80%A2+Billing;Distributed+systems+%E2%80%A2+Backend+architecture;PHP+%E2%80%A2+Symfony+%E2%80%A2+Node+%E2%80%A2+Java" />
 </a>
 
 <p>
-  Senior Backend Engineer from the Amazon — currently at <b>Leadtech</b> · Barcelona.<br/>
-  Backend, distributed systems and <b>payments</b> engineered to be correct, scalable and auditable.
+  <b>Senior Backend Engineer</b> focused on <b>payments, subscriptions and billing systems</b>.<br/>
+  I design distributed backends and evolve complex domains into APIs that stay correct, scalable and auditable under production load.
 </p>
 
 <p>
@@ -21,23 +21,29 @@
   <a href="https://wa.me/5511910921684"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-0b1f42?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<p>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dgabriel2334&style=flat-square&color=2f83f4&label=profile+views" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/dgabriel2334?style=flat-square&color=2f83f4&labelColor=0b1220" />
-</p>
-
 </div>
 
 <!-- ======================= ABOUT ======================= -->
 ## About
 
-- **7+ years** shipping production backends across Brazil, Spain and Latin America
-- Current role: **Senior Backend Engineer @ Leadtech** — payments · subscriptions · billing
-- Focus areas: **DDD**, **Hexagonal Architecture**, event-driven systems, observability by default
+- Senior Backend Engineer with **7+ years** shipping production systems in Brazil, Spain and Latin America
+- Currently at **Leadtech (Barcelona)** — payments, subscriptions and billing for international markets
+- Engineering driven by **DDD**, **Hexagonal Architecture** and event-driven design
 - Languages: Portuguese (native) · English (B2) · Spanish (A2)
-- Based in **Manaus, Amazonas — Brazil** (remote-first)
+- Based in **Manaus, Brazil** — remote-first, open to international roles
 
 > Architecture isn't about diagrams — it's about **making change safe and predictable**.
+
+---
+
+<!-- ======================= WHAT I BUILD ======================= -->
+## What I build
+
+- Payment and subscription systems integrated with Stripe, Adyen and regional providers
+- Billing flows, recurring charges and reconciliation pipelines
+- Event-driven backend systems with RabbitMQ and Kafka
+- High-volume REST APIs with clear bounded contexts
+- Legacy system modernization — strangler-fig, domain extraction, safe refactoring
 
 ---
 
@@ -49,7 +55,7 @@
 
 <br/>
 
-Senior Backend Engineer in the payments domain. Designing and maintaining payment integrations, improving subscription and billing systems, increasing API maintainability and supporting expansion into new markets. Architectural focus: DDD-based domain separation, hexagonal boundaries, clear bounded contexts and evolvable systems.
+Senior Backend Engineer in the payments domain. Designing and owning integrations with multiple payment providers, evolving subscription and billing services, and supporting expansion into new countries. Day-to-day work on **Symfony + Doctrine + PostgreSQL** with **RabbitMQ**-backed async flows, structured around DDD, hexagonal boundaries and explicit aggregates. Focus on API clarity, idempotent transactions and systems that remain testable as scope grows.
 
 <sub>Providers:</sub>
 <img src="https://img.shields.io/badge/-Stripe-626cd9?style=flat-square&logo=stripe&logoColor=white" />
@@ -63,7 +69,7 @@ Senior Backend Engineer in the payments domain. Designing and maintaining paymen
 
 <br/>
 
-APIs and backend services in PHP (Symfony, Laravel, Lumen). Built and maintained CI/CD pipelines on Jenkins with Dockerized environments, integrated messaging via RabbitMQ and Kafka, and delivered cloud services on AWS and GCP. Backend systems for Brazilian public-sector projects — high stability, data integrity and compliance.
+Senior Backend Engineer delivering APIs and backend services for Brazilian public-sector programs with high availability and strict data-integrity requirements. Built and maintained CI/CD on **Jenkins + Docker**, integrated messaging through **RabbitMQ** and **Kafka**, and operated services across **AWS** and **GCP**. Contributions shaped by SOLID, DDD and hexagonal architecture.
 
 </details>
 
@@ -72,11 +78,7 @@ APIs and backend services in PHP (Symfony, Laravel, Lumen). Built and maintained
 
 <br/>
 
-Backend improvements and sustainment on a large e-commerce platform: performance, reliability and complex business flows in production. Messaging, caching and design patterns across legacy and microservices systems.
-
-<sub>Integrations:</sub>
-<img src="https://img.shields.io/badge/-Adyen-0abf53?style=flat-square&logo=adyen&logoColor=white" />
-<img src="https://img.shields.io/badge/-Salesforce-00a1e0?style=flat-square&logo=salesforce&logoColor=white" />
+Mid-level to senior backend engineer on a high-traffic e-commerce platform — millions of monthly sessions and complex checkout, order and inventory flows in production. Work split across **Symfony**, **Laravel** and **Node.js**, with messaging, caching and legacy migration toward microservices. Delivered payment and CRM integrations (**Adyen**, **Salesforce**) in a multi-region environment.
 
 </details>
 
@@ -85,7 +87,7 @@ Backend improvements and sustainment on a large e-commerce platform: performance
 
 <br/>
 
-Led the team in modernizing legacy PHP systems. Built internal tools in Node.js, Vue.js and React, and shipped features like SAT fiscal invoice issuance, a WhatsApp messaging API and a distributed P2P server for offline-capable POS. Owned CI/CD pipelines and drove scalability initiatives.
+Led the modernization of a legacy PHP platform serving hundreds of restaurants and POS terminals across Brazil. Shipped Node.js, Vue.js and React internal tools, Brazilian fiscal invoicing (SAT), a WhatsApp messaging API and a distributed P2P server for offline-capable POS — plus CI/CD pipelines and performance initiatives across the stack.
 
 </details>
 
@@ -94,75 +96,55 @@ Led the team in modernizing legacy PHP systems. Built internal tools in Node.js,
 <!-- ======================= STACK ======================= -->
 ## Tech stack
 
-<p align="center">
-  <img alt="stack" src="https://skillicons.dev/icons?i=php,symfony,laravel,nestjs,nodejs,java,spring,ts,vue,react,postgres,mysql,redis,rabbitmq,kafka,docker,aws,gcp,jenkins,linux,git&perline=11" />
+**Core stack**
+<p>
+  <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
 
-<p align="center">
-  <sub><b>Architecture</b> · DDD &nbsp;·&nbsp; Hexagonal &nbsp;·&nbsp; Clean Architecture &nbsp;·&nbsp; CQRS-lite &nbsp;·&nbsp; SOLID &nbsp;·&nbsp; Event-driven</sub>
+**Architecture**  
+`DDD` · `Hexagonal Architecture` · `Clean Architecture` · `Event-driven` · `CQRS-lite` · `SOLID`
+
+**Additional tools**
+<p>
+  <img src="https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jenkins-d24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
 ---
 
 <!-- ======================= STATS ======================= -->
-## GitHub in numbers
+## GitHub stats
 
 <div align="center">
 
-<img height="180" alt="stats"  src="https://github-readme-stats.vercel.app/api?username=dgabriel2334&show_icons=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=2F83F4&text_color=CBD5E1&ring_color=2F83F4" />
-<img height="180" alt="streak" src="https://streak-stats.demolab.com?user=dgabriel2334&hide_border=true&background=0B1220&ring=2F83F4&fire=2F83F4&stroke=2F83F4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=94A3B8&sideLabels=CBD5E1&currStreakLabel=58A6FF" />
-
-<img height="180" alt="languages"        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgabriel2334&layout=compact&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=CBD5E1&langs_count=10" />
-<img height="180" alt="productive time"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dgabriel2334&theme=tokyonight_duo&utcOffset=-3" />
+<img height="170" alt="stats"     src="https://github-readme-stats.vercel.app/api?username=dgabriel2334&show_icons=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=2F83F4&text_color=CBD5E1&ring_color=2F83F4" />
+<img height="170" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgabriel2334&layout=compact&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=CBD5E1&langs_count=8" />
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dgabriel2334&bg_color=0B1220&color=58A6FF&line=2F83F4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20activity" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=dgabriel2334&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
-</div>
-
-<br/>
-
-<!-- Contribution snake generated by .github/workflows/main.yml -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/dgabriel2334/dgabriel2334/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dgabriel2334/dgabriel2334/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/dgabriel2334/dgabriel2334/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<!-- ======================= LEARNING ======================= -->
-## Currently exploring
-
-<p>
-  <img alt="Kotlin"  src="https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569b?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Go"      src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Python"  src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-</p>
 
 ---
 
 <!-- ======================= FOOTER ======================= -->
 <div align="center">
 
-<a href="https://dgabriel2334.github.io"><b>→ Visit the full portfolio</b></a>
+<a href="https://dgabriel2334.github.io"><b>→ View portfolio</b></a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14448C,100:2F83F4&height=100&section=footer" alt="footer"/>
-
-<sub>From the Amazon to the world.</sub>
 
 </div>
