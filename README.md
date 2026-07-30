@@ -49,13 +49,17 @@
 <td valign="top" width="40%">
 
 **Languages**
-Portuguese — native
-English — C1
-Spanish — C1
+
+| | |
+|---|---|
+| Portuguese | native |
+| English | C1 |
+| Spanish | C1 |
 
 **Currently studying**
-Master's, Integrated Applications (UFAM)
-MBA, Software Quality Management
+
+- Master's in Integrated Applications — UFAM
+- MBA in Software Quality Management — Faveni
 
 </td>
 </tr>
