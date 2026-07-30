@@ -11,7 +11,7 @@
 
 <p>
   <b>Senior Backend Engineer</b> — payments, subscriptions, billing and government-scale systems.<br/>
-  Eight years shipping distributed backends with PHP, Node.js and Java across Brazil, Spain and Latin America.
+  Nine years shipping distributed backends with PHP, Node.js and Java across Brazil, Spain and Latin America.
 </p>
 
 <p>
@@ -26,12 +26,12 @@
 <!-- ======================= ABOUT ======================= -->
 ## About
 
-- Senior Backend Engineer with **8+ years** shipping production systems in Brazil, Spain and Latin America
-- Currently completing a contract with **Leadtech** (via Ciklum, Barcelona) — ending May 2026, open to my next senior backend role
+- Senior Backend Engineer with **9+ years** shipping production systems in Brazil, Spain and Latin America
+- Currently a Senior Backend Engineer at **HITSS Brasil** (Brasília) — Node.js/TypeScript/NestJS microservices
 - Multi-stack across **PHP/Symfony**, **Node.js/NestJS** and **Java/Spring Boot/Quarkus**
 - Engineering driven by **DDD**, **Hexagonal Architecture** and event-driven design
-- Languages: Portuguese (native) · English (B2) · Spanish (C1)
-- Based in **Manaus, Brazil** — remote-first, open to international roles
+- Languages: Portuguese (native) · English (C1) · Spanish (C1)
+- Based in Brazil — remote-first, open to international roles
 
 > Architecture isn't about diagrams — it's about **making change safe and predictable**.
 
@@ -53,11 +53,20 @@
 ## Career highlights
 
 <details open>
-<summary><b>Leadtech</b> (via Ciklum) — Barcelona, Spain · <em>Sep 2025 — May 2026</em></summary>
+<summary><b>🟢 HITSS Brasil</b> — Brasília, Brazil · <em>May 2026 — Present</em></summary>
 
 <br/>
 
-Senior Backend Engineer in the payments domain, contracted via Ciklum. Designing and owning APIs for payments, subscriptions, e-signatures and AI-driven document workflows on **PHP 8 + Symfony + Doctrine + GraphQL/REST + PostgreSQL + RabbitMQ**. Architecture grounded in DDD, Hexagonal and SOLID — explicit aggregates, idempotent transactions and clean bounded contexts that scale with new markets.
+Senior Backend Engineer building microservices in **Node.js, TypeScript and NestJS**. Second stint at HITSS after delivering government-scale platforms in Rio de Janeiro — brought back for backend depth on distributed, service-oriented architecture.
+
+</details>
+
+<details>
+<summary><b>Leadtech</b> (via Ciklum) — Barcelona, Spain · <em>Sep 2025 — Jun 2026</em></summary>
+
+<br/>
+
+Senior Backend Engineer in the payments domain, contracted via Ciklum. Designed and owned APIs for payments, subscriptions, e-signatures and AI-driven document workflows on **PHP 8 + Symfony + Doctrine + GraphQL/REST + PostgreSQL + RabbitMQ**. Architecture grounded in DDD, Hexagonal and SOLID — explicit aggregates, idempotent transactions and clean bounded contexts that scale with new markets.
 
 <sub>Providers:</sub>
 <img src="https://img.shields.io/badge/-Stripe-626cd9?style=flat-square&logo=stripe&logoColor=white" />
@@ -67,7 +76,7 @@ Senior Backend Engineer in the payments domain, contracted via Ciklum. Designing
 </details>
 
 <details>
-<summary><b>Global HITSS Brasil</b> — Rio de Janeiro · <em>Oct 2023 — Oct 2025</em></summary>
+<summary><b>Global HITSS Brasil</b> — Rio de Janeiro, Brazil · <em>Oct 2023 — Oct 2025</em></summary>
 
 <br/>
 
@@ -76,7 +85,7 @@ Multi-stack senior on Brazilian government platforms across multiple ministries 
 </details>
 
 <details>
-<summary><b>Westwing Brasil</b> — São Paulo · <em>Oct 2020 — Sep 2023</em></summary>
+<summary><b>Westwing Brasil</b> — São Paulo, Brazil · <em>Oct 2020 — Sep 2023</em></summary>
 
 <br/>
 
@@ -85,7 +94,7 @@ Backend on a high-traffic e-commerce platform — millions of monthly sessions. 
 </details>
 
 <details>
-<summary><b>Vekttor · iComanda</b> — Manaus · <em>Jun 2017 — Sep 2020</em></summary>
+<summary><b>Vekttor · iComanda</b> — Manaus, Brazil · <em>Jun 2017 — Sep 2020</em></summary>
 
 <br/>
 
