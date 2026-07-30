@@ -84,7 +84,7 @@ MBA in Software Quality Management — Faveni
 ## Career highlights
 
 <details open>
-<summary><b>HITSS Brasil</b> — Brasília, Brazil · <em>May 2026 — Present</em> <sub>(current)</sub></summary>
+<summary><b><a href="https://globalhitss.com/br/">HITSS Brasil</a></b> — Brasília, Brazil · <em>May 2026 — Present</em> <sub>(current)</sub></summary>
 
 <br/>
 
@@ -98,7 +98,7 @@ Senior Backend Engineer building microservices in **Node.js, TypeScript and Nest
 </details>
 
 <details>
-<summary><b>Leadtech</b> (via Ciklum) — Barcelona, Spain · <em>Sep 2025 — Jun 2026</em></summary>
+<summary><b><a href="https://leadtech.com/">Leadtech</a></b> (via Ciklum) — Barcelona, Spain · <em>Sep 2025 — Jun 2026</em></summary>
 
 <br/>
 
@@ -112,7 +112,7 @@ Senior Backend Engineer in the payments domain, contracted via Ciklum. Designed 
 </details>
 
 <details>
-<summary><b>Global HITSS Brasil</b> — Rio de Janeiro, Brazil · <em>Oct 2023 — Oct 2025</em></summary>
+<summary><b><a href="https://globalhitss.com/br/">Global HITSS Brasil</a></b> — Rio de Janeiro, Brazil · <em>Oct 2023 — Oct 2025</em></summary>
 
 <br/>
 
@@ -121,7 +121,7 @@ Multi-stack senior on Brazilian government platforms across multiple ministries 
 </details>
 
 <details>
-<summary><b>Westwing Brasil</b> — São Paulo, Brazil · <em>Oct 2020 — Sep 2023</em></summary>
+<summary><b><a href="https://www.westwing.com.br/">Westwing Brasil</a></b> — São Paulo, Brazil · <em>Oct 2020 — Sep 2023</em></summary>
 
 <br/>
 
