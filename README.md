@@ -184,8 +184,8 @@ Worked with the team on modernizing a legacy PHP platform serving hundreds of re
 
 <div align="center">
 
-<img height="170" alt="stats"     src="https://github-readme-stats.vercel.app/api?username=dgabriel2334&show_icons=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=2F83F4&text_color=CBD5E1&ring_color=2F83F4" />
-<img height="170" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgabriel2334&layout=compact&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=CBD5E1&langs_count=8" />
+<img height="170" alt="stats"     src="https://github-readme-stats-nu-plum.vercel.app/api?username=dgabriel2334&show_icons=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=2F83F4&text_color=CBD5E1&ring_color=2F83F4" />
+<img height="170" alt="languages" src="https://github-readme-stats-nu-plum.vercel.app/api/top-langs/?username=dgabriel2334&layout=compact&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=CBD5E1&langs_count=8" />
 
 <br/>
 
