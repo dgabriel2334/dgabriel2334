@@ -49,17 +49,16 @@
 <td valign="top" width="40%">
 
 **Languages**
-
-| | |
-|---|---|
-| Portuguese | native |
-| English | C1 |
-| Spanish | C1 |
+<br/>
+<img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-native-334155?style=flat-square" />
+<img alt="English" src="https://img.shields.io/badge/English-C1-334155?style=flat-square" />
+<img alt="Spanish" src="https://img.shields.io/badge/Spanish-C1-334155?style=flat-square" />
 
 **Currently studying**
-
-- Master's in Integrated Applications — UFAM
-- MBA in Software Quality Management — Faveni
+<br/>
+Master's in Integrated Applications — UFAM
+<br/>
+MBA in Software Quality Management — Faveni
 
 </td>
 </tr>
