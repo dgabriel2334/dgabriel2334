@@ -21,17 +21,45 @@
   <a href="https://wa.me/5511981174082"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-0b1f42?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
+<p>
+  <img alt="Status" src="https://img.shields.io/badge/Status-Senior%20Backend%20Engineer%20%40%20HITSS-2f83f4?style=flat-square" />
+  <img alt="Experience" src="https://img.shields.io/badge/Experience-9%2B%20years-14448C?style=flat-square" />
+  <img alt="Location" src="https://img.shields.io/badge/Location-Brazil%20%C2%B7%20Remote--first-14448C?style=flat-square" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dgabriel2334&style=flat-square&color=2f83f4&label=Profile+views" />
+</p>
+
 </div>
+
+---
 
 <!-- ======================= ABOUT ======================= -->
 ## About
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 - Senior Backend Engineer with **9+ years** shipping production systems in Brazil, Spain and Latin America
-- Currently a Senior Backend Engineer at **HITSS Brasil** (Brasília) — Node.js/TypeScript/NestJS microservices
+- Currently at **HITSS Brasil** (Brasília) — Node.js/TypeScript/NestJS microservices
 - Multi-stack across **PHP/Symfony**, **Node.js/NestJS** and **Java/Spring Boot/Quarkus**
 - Engineering driven by **DDD**, **Hexagonal Architecture** and event-driven design
-- Languages: Portuguese (native) · English (C1) · Spanish (C1)
 - Based in Brazil — remote-first, open to international roles
+
+</td>
+<td valign="top" width="40%">
+
+**Languages**
+Portuguese — native
+English — C1
+Spanish — C1
+
+**Currently studying**
+Master's, Integrated Applications (UFAM)
+MBA, Software Quality Management
+
+</td>
+</tr>
+</table>
 
 > Architecture isn't about diagrams — it's about **making change safe and predictable**.
 
@@ -53,11 +81,16 @@
 ## Career highlights
 
 <details open>
-<summary><b>🟢 HITSS Brasil</b> — Brasília, Brazil · <em>May 2026 — Present</em></summary>
+<summary><b>HITSS Brasil</b> — Brasília, Brazil · <em>May 2026 — Present</em> <sub>(current)</sub></summary>
 
 <br/>
 
 Senior Backend Engineer building microservices in **Node.js, TypeScript and NestJS**. Second stint at HITSS after delivering government-scale platforms in Rio de Janeiro — brought back for backend depth on distributed, service-oriented architecture.
+
+<sub>Stack:</sub>
+<img src="https://img.shields.io/badge/-Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white" />
 
 </details>
 
@@ -150,6 +183,10 @@ Worked with the team on modernizing a legacy PHP platform serving hundreds of re
 
 <img height="170" alt="stats"     src="https://github-readme-stats.vercel.app/api?username=dgabriel2334&show_icons=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=2F83F4&text_color=CBD5E1&ring_color=2F83F4" />
 <img height="170" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgabriel2334&layout=compact&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=CBD5E1&langs_count=8" />
+
+<br/>
+
+<img height="170" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dgabriel2334&hide_border=true&background=0B1220&stroke=2F83F4&ring=2F83F4&fire=58A6FF&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=8B949E" />
 
 </div>
 
